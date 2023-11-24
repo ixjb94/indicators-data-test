@@ -1,0 +1,16 @@
+{
+  "name": "indicators-data-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ixjb94/indicators": "^1.1.22"
+  }
+}
