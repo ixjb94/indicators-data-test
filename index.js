@@ -13,6 +13,7 @@ BitcoinData.forEach(data => {
 Run()
 async function Run() {
     const res = await tan.ema(closes, 10)
+    console.log(res)
     
     // Write Data
     const stream = createWriteStream("./results_ema.txt")
