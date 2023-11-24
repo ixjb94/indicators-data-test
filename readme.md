@@ -6,9 +6,6 @@ Testing EMA 10 from @ixjb94/indicators and TradingView
 ##### Compare Data
 ![Compare](https://raw.githubusercontent.com/ixjb94/indicators-data-test/master/images/Compare.png "Compare")
 
-##### Results (console.log)
-![Results](https://raw.githubusercontent.com/ixjb94/indicators-data-test/master/images/Results.png "Results")
-
 ##### Data
 https://data.binance.vision/?prefix=data/futures/um/daily/klines/BTCUSDT/15m/
 
