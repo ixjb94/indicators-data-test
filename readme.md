@@ -13,5 +13,5 @@ https://data.binance.vision/?prefix=data/futures/um/daily/klines/BTCUSDT/15m/
 https://csvjson.com/csv2json
 
 ##### Questions
-Q: Why my the first data is not matching with TradingView?    
+Q: Why my first data is not matching with TradingView?    
 A: Because of the calculation. If you want to match the first data in a specific window, you need to add more data to the beginning of @ixjb94/indicators. (Obviously right?)
